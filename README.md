@@ -16,25 +16,26 @@ https://docs.google.com/spreadsheets/d/1DLl18NJ2HJ2suqBxr2izBmp6rWJTReRF9p1OsJ1b
 https://docs.google.com/spreadsheets/d/1udMgTpFUWy50dCSDAOq5dpuLaMBpcdptTQnYDLufxag
 ```
 
-## Test Cases & Bug Reports
-- Test Cases: [Shopping Cart](https://docs.google.com/spreadsheets/d/1nLBVJxvYH3jApQtp_vxVVUkBXxT9hvYAUhompEOxI2c/edit?usp=drive_link), [Card](https://docs.google.com/spreadsheets/d/1DlSB5F3OfJ6_ydyQ5pCRr6b3G4J8LnGCmz_ejHcoUhM/edit?usp=drive_link)
-- Bug Reports (Home Page): soon
-
 ## Test Runs & Results
 <table>
 <tr>
-<th><p align="center">Login</p></th>
-<th><p align="center">Home Page</p></th>
-<th><p align="center">Footer Section</p></th>
+  <th>Name</th>
+  <td><p align="center">Shopping Cart</p></td>
+  <td><p align="center">Card on the Home Page</p></td>
 </tr>
 <tr>
-<td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1TWQIkYbP9aDhSIQYiQFROdDq3D8cMPcVwQDCu4goYik/edit?usp=drive_link">Google Sheet</a></td>
-<td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1X83W-l9Bl7SX9NAyYPd-TDiI93T94UJ3lcm23qlVMag/edit?usp=drive_link">Google Sheet</a></td>
-<td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1wOR4vBlNdtuQWMQOuC4OiqJOgJuG6UDLXK6AQS8Lh88/edit?usp=drive_link">Google Sheet</a></td>
+  <th>Test Cases</th>
+  <td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1nLBVJxvYH3jApQtp_vxVVUkBXxT9hvYAUhompEOxI2c/edit?usp=drive_link">Google Sheet</a></td>
+  <td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1DlSB5F3OfJ6_ydyQ5pCRr6b3G4J8LnGCmz_ejHcoUhM/edit?usp=drive_link">Google Sheet</a></td>
+</tr>
+  <tr>
+  <th>Test Runs & Results</th>
+  <td><img src="https://github.com/LosKamilos91/swag-labs/assets/93448256/eea2e54d-e80f-42ac-83aa-852e46f9f07d" width="500"></td>
+  <td><img src="https://github.com/LosKamilos91/swag-labs/assets/93448256/6e7cb5f4-ee7f-44f7-a8b9-9b8c95ba8dc6" width="500"></td>
 </tr>
 <tr>
-<td><img src="https://github.com/LosKamilos91/swag-labs/assets/93448256/08abce87-b69d-4d90-88bf-6a37d67c8bad" width="500"></td>
-<td><img src="https://github.com/LosKamilos91/swag-labs/assets/93448256/e8c5161c-ccee-479a-b484-1d2c288a09ad" width="500"></td>
-<td><img src="https://github.com/LosKamilos91/swag-labs/assets/93448256/b3ef74db-882f-4929-96ee-2fa5bc94031c" width="500"></td>
+  <th>Bug Reports (ID)</th>
+  <td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1lGQiZnzAkkz9_RPRn7Fzk3HdF3r-DRQCLnEf1fDMsHQ/edit?usp=drive_link">T110</a></td>
+  <td><p align="center"><a href="https://docs.google.com/spreadsheets/d/1gLhZySTJxmnZoU5r_JNhLC0bGhYWIhUs9YMrravWf_8/edit?usp=drive_link">T122</a>, <a href="https://docs.google.com/spreadsheets/d/1mHBXGJFrddzbeiAmijUaA0ARa4YoUkDdJ0j7MdbpYqk/edit?usp=drive_link">T123</a>, <a href="">T123</a>, <a href="https://docs.google.com/spreadsheets/d/1SsMgU3uXP6CvDqeeEkZgA4x6Y94EUZsSA6Ea5ZDqgHg/edit?usp=drive_link">T124</a>, <a href="https://docs.google.com/spreadsheets/d/1h6NSRCGIs8SPjjRNclBwY0DjyfPJx6lT1MQyClCvpng/edit?usp=drive_link">T125</a>, <a href="https://docs.google.com/spreadsheets/d/1mLlD2aZnrA_6p4lQDBw7ZvhdYaILYbauHi6trsJdv8I/edit?usp=drive_link">T127</a>, <a href="https://docs.google.com/spreadsheets/d/15BNjIxR2Z0GXfhw-8V0EHFbDch9wqcavx0rua2QXGK8/edit?usp=drive_link">T128</a>, <a href="https://docs.google.com/spreadsheets/d/1gell4vbWkCI_NEww-g7mZem5XJkpsWOpAREx-G9wJ6I/edit?usp=drive_link">T129</a></td>
 </tr>
 </table>
