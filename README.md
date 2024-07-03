@@ -17,8 +17,8 @@ https://docs.google.com/spreadsheets/d/1udMgTpFUWy50dCSDAOq5dpuLaMBpcdptTQnYDLuf
 ```
 
 ## Test Cases & Bug Reports
-- Test Cases: [Google Sheet](https://docs.google.com/spreadsheets/d/1mTPm_9USumEygObLNwsedxwbxfNSp_D97T1FmiqBPqA/edit?usp=drive_link), [Excel](https://docs.google.com/spreadsheets/d/168IbMfPHGwFA8RnnnxSi_NuGq1T6kOuc/edit?usp=drive_link&ouid=105235350847902077637&rtpof=true&sd=true), [CSV](https://drive.google.com/file/d/17TzV7Dc8fhSbc9xStsb9mjMLU4uuxV0V/view?usp=drive_link), [XML](https://drive.google.com/file/d/1PQuFRIzCo0J9ckwoSrh7q64Uf8S205Im/view?usp=drive_link)
-- Bug Reports (Home Page): [T69](https://docs.google.com/spreadsheets/d/1mLlD2aZnrA_6p4lQDBw7ZvhdYaILYbauHi6trsJdv8I/edit?usp=drive_link), [T70](https://docs.google.com/spreadsheets/d/15BNjIxR2Z0GXfhw-8V0EHFbDch9wqcavx0rua2QXGK8/edit?usp=drive_link), [T71](https://docs.google.com/spreadsheets/d/1gell4vbWkCI_NEww-g7mZem5XJkpsWOpAREx-G9wJ6I/edit?usp=drive_link), [T76](https://docs.google.com/spreadsheets/d/1lGQiZnzAkkz9_RPRn7Fzk3HdF3r-DRQCLnEf1fDMsHQ/edit?usp=drive_link)
+- Test Cases: [Shopping Cart](https://docs.google.com/spreadsheets/d/1nLBVJxvYH3jApQtp_vxVVUkBXxT9hvYAUhompEOxI2c/edit?usp=drive_link), [Card](https://docs.google.com/spreadsheets/d/1DlSB5F3OfJ6_ydyQ5pCRr6b3G4J8LnGCmz_ejHcoUhM/edit?usp=drive_link)
+- Bug Reports (Home Page): soon
 
 ## Test Runs & Results
 <table>
