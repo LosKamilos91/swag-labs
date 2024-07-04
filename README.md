@@ -28,23 +28,23 @@ https://docs.google.com/spreadsheets/d/1DLl18NJ2HJ2suqBxr2izBmp6rWJTReRF9p1OsJ1b
 ### Test Cases
 Shopping Cart:
 ```
-https://docs.google.com/spreadsheets/d/1nLBVJxvYH3jApQtp_vxVVUkBXxT9hvYAUhompEOxI2c/edit?usp=drive_link
+https://docs.google.com/spreadsheets/d/1nLBVJxvYH3jApQtp_vxVVUkBXxT9hvYAUhompEOxI2c
 ```
 
 Products:
 ```
-https://docs.google.com/spreadsheets/d/1DlSB5F3OfJ6_ydyQ5pCRr6b3G4J8LnGCmz_ejHcoUhM/edit?usp=drive_link
+https://docs.google.com/spreadsheets/d/1DlSB5F3OfJ6_ydyQ5pCRr6b3G4J8LnGCmz_ejHcoUhM
 ```
 
 ### Test Runs
 Shopping Cart:
 ```
-https://docs.google.com/spreadsheets/d/1hEx84MlHsRWv_txRmHWMnJ92T3wmuPN6RXS7FkT3nAI/edit?usp=drive_link
+https://docs.google.com/spreadsheets/d/1hEx84MlHsRWv_txRmHWMnJ92T3wmuPN6RXS7FkT3nAI
 ```
 
 Products:
 ```
-https://docs.google.com/spreadsheets/d/1FJQL5XlM3isl1pTHUNIvdZXgP3f7vsH-M7IHoGrONko/edit?usp=drive_link
+https://docs.google.com/spreadsheets/d/1FJQL5XlM3isl1pTHUNIvdZXgP3f7vsH-M7IHoGrONko
 ```
 
 ## Bug Reports
