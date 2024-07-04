@@ -6,7 +6,7 @@ The website provides an online platform for purchasing clothing. This is a demon
 https://www.saucedemo.com/
 ```
 
-## Test Design Techniques
+## Test Design Technique
 
 #### RTM
 ```
