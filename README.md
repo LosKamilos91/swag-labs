@@ -1,5 +1,5 @@
 # Swag Labs
-The website that allows you to buy clothes online. This is a demo version for testing purposes.
+The website provides an online platform for purchasing clothing. This is a demonstration version intended for testing purposes.
 
 #### Tested site:
 ```
