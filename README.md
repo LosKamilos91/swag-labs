@@ -1,5 +1,11 @@
 # Swag Labs
-The website provides an online platform for purchasing clothing. This is a demonstration version intended for testing purposes.
+A demo site designed for testing purposes. This is an online clothing store where we have the opportunity to test the application by checking out clothing purchases using an online shopping cart. 
+
+**Website**: https://www.saucedemo.com/
+
+
+<!--
+
 
 #### Tested site:
 ```
@@ -56,4 +62,4 @@ https://docs.google.com/spreadsheets/d/1udMgTpFUWy50dCSDAOq5dpuLaMBpcdptTQnYDLuf
   </tr>
 </table>
 
-
+-->
