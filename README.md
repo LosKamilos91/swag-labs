@@ -3,6 +3,12 @@ A demo site designed for testing purposes. This is an online clothing store wher
 
 **Website**: https://www.saucedemo.com/
 
+> [!NOTE]
+> All data contained in this topic is for demonstration purposes and was created to represent activities for personal use.
+
+#### TEST DESIGN TECHNIQUES
+- [RTM](...)
+
 
 <!--
 
