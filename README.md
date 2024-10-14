@@ -9,6 +9,10 @@ A demo site designed for testing purposes. This is an online clothing store wher
 #### TEST DESIGN TECHNIQUES
 - [RTM](...)
 
+## Test Plan - Confluence
+```
+soon
+```
 
 <!--
 
