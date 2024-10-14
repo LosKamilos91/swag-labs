@@ -7,7 +7,7 @@ A demo site designed for testing purposes. This is an online clothing store wher
 > All data contained in this topic is for demonstration purposes and was created to represent activities for personal use.
 
 #### TEST DESIGN TECHNIQUES
-- [RTM](...)
+- [RTM](https://docs.google.com/spreadsheets/d/1DLl18NJ2HJ2suqBxr2izBmp6rWJTReRF9p1OsJ1bU0I)
 
 ## Test Plan - Confluence
 ```
