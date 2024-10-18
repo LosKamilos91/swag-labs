@@ -11,65 +11,22 @@ A demo site designed for testing purposes. This is an online clothing store wher
 
 ## Test Plan - Confluence
 ```
+https://drive.google.com/file/d/1a8VKOVA9waauo7U9oyHLxXR18fOfaxDV/view?usp=sharing
+```
+
+## Test Run, Results (TestRail) & Reports
+![image](https://github.com/user-attachments/assets/b9307bb8-378d-4983-9811-7f88a534390f)
+
+- [Home Page](https://github.com/user-attachments/assets/1a4b5163-7994-4086-a769-3c31577d9feb),
+- [Shopping Cart](https://github.com/user-attachments/assets/1b6760d3-084f-44fc-ad63-2da8796560d5),
+- [Checkout: Your Information](https://github.com/user-attachments/assets/7004d402-90c9-4974-8c03-4db1a75db596)
+
+## Test Cases (TestRail)
+```
 soon
 ```
 
-<!--
-
-
-#### Tested site:
+## Bugs (Trello)
 ```
-https://www.saucedemo.com/
+soon
 ```
-
-## Test Design Technique
-
-#### RTM
-```
-https://docs.google.com/spreadsheets/d/1DLl18NJ2HJ2suqBxr2izBmp6rWJTReRF9p1OsJ1bU0I
-```
-
-## Test Cases
-Shopping Cart:
-```
-https://docs.google.com/spreadsheets/d/1nLBVJxvYH3jApQtp_vxVVUkBXxT9hvYAUhompEOxI2c
-```
-
-Products:
-```
-https://docs.google.com/spreadsheets/d/1DlSB5F3OfJ6_ydyQ5pCRr6b3G4J8LnGCmz_ejHcoUhM
-```
-
-## Test Runs
-Shopping Cart:
-```
-https://docs.google.com/spreadsheets/d/1hEx84MlHsRWv_txRmHWMnJ92T3wmuPN6RXS7FkT3nAI
-```
-
-Products:
-```
-https://docs.google.com/spreadsheets/d/1FJQL5XlM3isl1pTHUNIvdZXgP3f7vsH-M7IHoGrONko
-```
-
-## Bug Reports
-```
-https://drive.google.com/drive/folders/18Bz7bu4R3egzvOvnmst59ivYiun6ZXIx?usp=drive_link
-```
-
-## Test Reports
-```
-https://docs.google.com/spreadsheets/d/1udMgTpFUWy50dCSDAOq5dpuLaMBpcdptTQnYDLufxag
-```
-
-<table>
-  <tr>
-    <td><img src="https://github.com/LosKamilos91/swag-labs/assets/93448256/eea2e54d-e80f-42ac-83aa-852e46f9f07d" width="500"></td>
-    <td><img src="https://github.com/LosKamilos91/swag-labs/assets/93448256/6e7cb5f4-ee7f-44f7-a8b9-9b8c95ba8dc6" width="500"></td>
-  </tr>
-  <tr>
-    <th align="center">Shopping Cart</th>
-    <th align="center">Products on the Home Page</th>
-  </tr>
-</table>
-
--->
