@@ -26,8 +26,13 @@ Click [Test Run](https://docs.google.com/spreadsheets/d/12q8tEEx3RjOfD4dgtwQhRWh
 https://docs.google.com/spreadsheets/d/199YqSYaTTxhnc49FpZVQ_t2VssAmAljo
 ```
 
-![image](https://github.com/user-attachments/assets/afaa270f-aad4-4b7d-8c64-45e5fd058c8b)
+![image](https://github.com/user-attachments/assets/1d7e0bc6-d60d-4566-889e-32c12e54fc9b)
 
+![image](https://github.com/user-attachments/assets/770bb6f5-dde9-4731-a251-5210b972379e)
+
+![image](https://github.com/user-attachments/assets/8ec1650d-5373-4118-b5e2-13133f86c3e5)
+
+![image](https://github.com/user-attachments/assets/9275f7ab-8ea4-4e39-945a-0bfc313502f4)
 
 ## Bugs ([Trello](https://trello.com/invite/b/67123486e5c5c8a41909798c/ATTI535d1cfe6b2fe54de16618a06dad8a9bA8F89F74/swag-labs))
 ```
