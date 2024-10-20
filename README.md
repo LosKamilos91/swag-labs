@@ -1,4 +1,4 @@
-# Swag Labs
+# Swag Labs ![image](https://geps.dev/progress/100)
 A demo site designed for testing purposes. This is an online clothing store where we have the opportunity to test the application by checking out clothing purchases using an online shopping cart. 
 
 **Website**: https://www.saucedemo.com/
